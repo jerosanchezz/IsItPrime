@@ -1,14 +1,19 @@
-# Is It Prime?
+# Prime?
 
-• Check whether a number is prime
-• List the primes in a range
-• Decompose a number to its prime factors
-• Create random primes of a size of your choosing
-• Get random medium sized primes using Siri
-• Share or save your results
-• Choose between light and dark mode
-• Choose whether to have sounds on or off
-• Optionally display the thousands separator
+· Check whether a number is prime
+· List the primes in a range
+· Decompose a number to its prime factors
+· Create random primes of a size of your choosing
+· Get random medium sized primes using Siri
+· Share or save your results
+· Choose between light and dark mode
+· Choose whether to have sounds on or off
+· Optionally display the thousands separator
+
+
+INTRO
+
+· Prime lets you work with prime numbers in 4 different ways: Checker, List, Factorize, and Randomize.
 
 # Contact Us
 
